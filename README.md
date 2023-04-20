@@ -1,6 +1,6 @@
 ### `Movieapp`
 
-![movie](https://user-images.githubusercontent.com/120906462/233286262-8110699d-54c7-438f-8c0a-f81ee06569bd.png)
+![me](https://user-images.githubusercontent.com/120906462/233331941-bb10e5f6-91ab-48bf-85be-d3b160add66b.png)
 
 ### `Libraries used`
 
