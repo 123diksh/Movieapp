@@ -1,5 +1,5 @@
-### Movieapp
-### Libraries used
+### `Movieapp`
+### `Libraries used`
 
 styled-components:For building a UI library,easily be exported and reused
 
