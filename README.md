@@ -10,13 +10,13 @@ axios:used to make request to api ,return data from api,
 
 react-script
 
-Apiused
+### `Apiused`
 
 Open movies database APIs generate api key form:
 
 https://www.omdbapi.com/apikey.aspx
 
-ApiInformation
+### `ApiInformation`
 
 Method:Get
 
