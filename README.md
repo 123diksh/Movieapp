@@ -17,7 +17,7 @@ ApiInformation
 
 Method:Get
 
-Search URL:
+Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}
 
 
 ### `npm start`
