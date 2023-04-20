@@ -1,4 +1,7 @@
 ### `Movieapp`
+
+![movie](https://user-images.githubusercontent.com/120906462/233286262-8110699d-54c7-438f-8c0a-f81ee06569bd.png)
+
 ### `Libraries used`
 
 styled-components:For building a UI library,easily be exported and reused
@@ -18,6 +21,8 @@ ApiInformation
 Method:Get
 
 Search URL: https://www.omdbapi.com/?s={MOVIE_NAME}&apikey={API_KEY}
+
+Movie Details URL: https://www.omdbapi.com/?i={MOVIE_ID}&apikey={API_KEY}
 
 
 ### `npm start`
